@@ -22,6 +22,35 @@ This project helps you **read**, **analyze**, and **visualize logs** from variou
 
 ---
 
+
+## **Technologies Used**
+
+This project leverages the following technologies:
+
+1. **Programming Language**:  
+   - **Python**: The primary language for parsing, processing, and visualizing logs.
+
+2. **Python Libraries**:  
+   - **Pandas**: For data cleaning, manipulation, and tabular data handling.  
+   - **Matplotlib**: For creating visualizations like bar charts and line graphs.
+
+3. **Version Control**:  
+   - **Git**: To manage the source code and track changes.  
+   - **GitHub**: To host and share the project repository.
+
+4. **Development Environment**:  
+   - Works in **Jupyter Notebook**, **VS Code**, or any Python IDE.  
+   - **Terminal/Command Prompt**: For running Git commands and executing scripts.
+
+5. **Data Handling**:  
+   - Handles structured (e.g., JSON) and semi-structured (e.g., Base64-encoded) data.  
+   - Processes log files stored locally.
+
+6. **Visualization Framework**:  
+   - Uses **Matplotlib** to generate stacked bar charts and time-series plots.  
+
+---
+
 ## **How to Get Started**
 
 ### **Step 1: Install Python**
